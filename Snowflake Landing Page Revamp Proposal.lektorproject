@@ -12,7 +12,4 @@ url_prefix = /fr/
 locale = fr
 
 [servers.ghpages]
-name = production
-enabled = yes
-default = yes
 target = ghpages://devilkiller-ag/Snowflake-Landing-Page-Revamp-Proposal
