@@ -1,0 +1,12 @@
+title: 6. Project Technology Stack
+---
+pub_date: 2023-04-06
+---
+author: Ashmit Gupta
+---
+body:
+
+
+**HTML/CSS, Bootstrap, Lektor**
+
+Snowflake Landing Page being a static website prioritizes privacy and security. Since static websites do not have any server-side scripts or databases, they do not require user tracking or cookies to function and there are fewer attack vectors for hackers to exploit. As static websites are simple and lightweight, they will load faster leading to a better user experience and reduced frustration for users. We will be using a Static Website Generator with a dynamic admin site like Lektor which will help us to maintain our landing page easily and securely.

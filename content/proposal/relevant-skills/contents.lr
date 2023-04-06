@@ -1,0 +1,28 @@
+title: 4. My relevant skills required for this project
+---
+pub_date: 2023-04-06
+---
+author: Ashmit Gupta
+---
+body:
+
+
+I started my web development journey with Hacktoberfest 2022 and learned HTML5, CSS3, Javascript, NodeJs, React, Bootstrap, Tailwind, TipTap, GSAP, Gatsby, Web Design, UI/UX, and Figma. I tried to learn web development before Hacktoberfest but was demotivated due to lack of guidance. Though I don’t have previous experience of Lektor Static Content Management System, I am currently learning it by following [this](https://terminallabs.com/blog/lektor-tutorial/) tutorial and Lektor Documentation and attempting to construct a blog website. Currently, I am learning Three.js so that I can build my portfolio website using Three.js in future. Here is the list of all of the projects that I have built till now while learning these skills which will demonstrate my skills relevant to this project:
+
+**The Little Taco Shop**: This is a simple website I made by following a [FreeCodeCamp tutorial](https://youtu.be/kUMe1FH4CHE) on HTML by Dave Gray to learn HTML and CSS. The site is live at [here](https://thelittletacoshopag.netlify.app/). The source code for the project is available at [github](https://github.com/devilkiller-ag/TheLittleTacoShop).
+
+**Abraxas Homepage:** This is a simple homepage that I have developed for a college physics club - Abraxas. The site is under construction and a [preview](https://abraxass-website-2k23.vercel.app/) is available here. The source code is available on [github](https://github.com/devilkiller-ag/abraxas-website-2023).
+
+**AskItOut Design:** This is a figma design that I have created for my ongoing personal project  which aims to create a Doubt Sharing Website for Educational Institutes. I am working on the design, UI/UX, and frontend development part of the project while one of my school friends is working on the backend of the project using Express, MongoDB and Nodejs. The preview of the [figma design](https://www.figma.com/file/u41aTTJzAxouyKXEdXxaDP/AskItOut-Design?node-id=0%3A1&t=PoXODyCitSl5uLcL-1) is available [here](https://www.figma.com/proto/u41aTTJzAxouyKXEdXxaDP/AskItOut-Design?page-id=0%3A1&node-id=1%3A2&viewport=184%2C528%2C0.35&scaling=scale-down).
+
+**AskItOut Frontend:** This is the ongoing frontend development of translating the above UI design into a mobile-responsive website using React and Tailwind. The source code of the project is available on [github](https://github.com/devilkiller-ag/AskItOut-Frontend). The project is under development and the whole project is not built till now due to our Mid-Sem Examinations. The preview of the project is available [here](https://askitout.netlify.app/).
+
+**Space Warp Effect:** This is a three.js project to show a spacewarp effect similar to that in star wars. This project is inspired from a [youtube video](https://youtu.be/Bed1z7f1EI4) by Red Staple. The preview of the project is available [here](https://spacewrap-devilkiller-ag.vercel.app/) and the source code of the project is available on [github](https://github.com/devilkiller-ag/spacewrap).
+
+**Siya’s Quantum Odyssey:** This is a side-scroller 2D web game built using HTML5 Canvas and Javascript to develop interest of school students and university freshmen in the field of Quantum Computing. I built this project during an Annual hackathon - Electrothon 4.0 - in 48 hours where it won the Best Beginner Hack Title. Besides the game, two of my teammates built a website for this. This project is listed at [devfolio](https://devfolio.co/projects/siyas-quantum-oddessy-5d5c) and is available on [github](https://github.com/devilkiller-ag/Siya-s-Quantum-Oddyssey). 
+
+**Dummy Website for Cern Training Center:** This is a static and serverless website that I built using Gatsby. This website lists the details of training modules by CERN from a YAML File. Users can filter the list according to the status of modules. The preview of the project is available [here](https://cerntrainingcenter.gatsbyjs.io/) and the source code of the project is available on [github](https://github.com/devilkiller-ag/CERN-Training-Center).
+
+**Open Source Contributions:** I have previously contributed to Clueless Community, Qiskit Textbook, PennyLane AI, Society for Promotion of Electronics Culture, Imgman, URL Reducer, and Abraxas. My contribution history can be seen on my [GitHub Profile](https://github.com/devilkiller-ag).
+
+*Besides these, programming languages and libraries which I have previously worked with include Java, C, Python, Matlab, Pygame, Numpy, Opencv, Qiskit, and Pennylane. I am also a quantum computing enthusiast currently working on a Quantum Image Enhancing Tool for High-Fidelity Image Processing under the Quantum Computing Mentorship Program by QOSF. I have knowledge of basic data structures and algorithms, the fundamentals of digital marketing, and the basics of cloud computing. I also have experience of community management and content writing. I believe these skills and experiences will help me to work on this project effectively.*
