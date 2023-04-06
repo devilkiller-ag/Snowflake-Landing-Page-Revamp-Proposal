@@ -12,4 +12,4 @@ url_prefix = /fr/
 locale = fr
 
 [servers.ghpages]
-target = ghpages://devilkiller-ag/Snowflake-Landing-Page-Revamp-Proposal
+target = ghpages+https://devilkiller-ag/Snowflake-Landing-Page-Revamp-Proposal
